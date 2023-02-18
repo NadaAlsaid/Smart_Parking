@@ -13,12 +13,12 @@ ESP8266WebServer server(80);
 //left
 int trigParkingArea1 = D5 ; 
 int echoParkingArea1 = D6;
-int ledParkingArea1 = D0 ;
+int ledParkingArea1 = D8 ;
 
 //right
-int trigParkingArea2 = D4; 
-int echoParkingArea2 = D3;
-int ledParkingArea2 = D8 ;
+int trigParkingArea2 = D3; 
+int echoParkingArea2 = D4;
+int ledParkingArea2 = D0 ;
 //controls
 
 int numberOfCars = 0 ;
