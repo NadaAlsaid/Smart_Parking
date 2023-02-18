@@ -7,7 +7,7 @@
 - IR sensor 
   - Detect car on parking gate 
 - LCD with I2C module 
-  - Shows status of every spot
+  - Shows status of every spot and number of empty spots
 - Ultrasonic sensor 
   - Detect car on spot or not
 - Led 
