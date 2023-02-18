@@ -1,8 +1,7 @@
-# Smart_Parking
+<h1> Smart_Parking </h1>
 
-Using IOT to make website to show if spots are empty or not and price car should paid ( 3$ for one hour) by using Nodemcu esp8266 .
+ Smart Parking contain 2 spots for 2 cars, using IOT to make website to show if spots are empty or not and price car should paid ( 3$ for one hour) by using Nodemcu esp8266 .
 
-## Contain 2 spots for 2 cars.
 ## Components :
 - Nodemcu esp8266 
 - IR sensor 
