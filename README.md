@@ -1,6 +1,6 @@
 <h1 align="center"> Smart Parking </h1>
 
- Smart Parking contain 2 parking area for 2 cars, using IOT to make website to show number of empty parking area and price car should paid ( 3$ for one hour) by using Nodemcu esp8266 .
+ Smart Parking contains 2 parking area for 2 cars, using IOT to create website that shows number of empty parking area and price car should paid ( 3$ for one hour).
 
 ## Components :
 - Nodemcu esp8266 
